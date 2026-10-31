@@ -1,0 +1,6 @@
+# Build output (published as a GitHub release instead)
+*.exe
+
+# Per-user settings written next to the app/script
+*.ini
+MonitorControl.last.json
